@@ -8,3 +8,10 @@ The provide creates an app and list it publicly or privately to a consumer.
 
 You need to execute a consumer side script (consumer.sql).
 The consumer.sql will have this items 
+
+How to execute the code in SNOWSQL 
+// **In the provider account ***//
+snowsql -c rpegucas2 -f provider.sql -o output_file=sf_output.csv -o output_format=csv -o quiet=true
+
+//command running in the consumer account //
+snowsql -c  cas2 -f consumer.sql -o output_file=sf_con_output.csv -o output_format=csv -o quiet=true
