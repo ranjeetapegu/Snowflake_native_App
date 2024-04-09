@@ -1,0 +1,3 @@
+artifacts:
+ setup_script: scripts/setup.sql 
+ extension_code: true

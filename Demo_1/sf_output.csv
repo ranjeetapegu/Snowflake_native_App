@@ -1,0 +1,154 @@
+"status"
+"Statement executed successfully."
+"status"
+"Role APP_CREATOR successfully created."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+003041 (42710): SQL compilation error:
+Database 'NATIVE_APP_DEMO_DB' already exists, but current role has no privileges on it. If this is unexpected and you cannot resolve this problem, contact your system administrator. ACCOUNTADMIN role may be required to manage the privileges on the object.
+002003 (02000): SQL compilation error:
+Database 'NATIVE_APP_DEMO_DB' does not exist or not authorized.
+002003 (02000): SQL compilation error:
+Database 'NATIVE_APP_DEMO_DB' does not exist or not authorized.
+"global_name","name","type","state","metadata","profile_name","customized_contact_info","fulfillment_type","attached_share","draft_state","draft_metadata","draft_profile_name","rejected_reason","created_on","updated_on","regions","comment","first_published_on","last_published_on","last_submitted_on","last_approved_on","autofulfillment","unpublished_by_admin_reason","private","target_accounts","publish_on_approval","replication_schedule","share_type","additional_regions","flags","application_package_name","evaluation_plan","draft_evaluation_plan","rejected_on","detailed_target_accounts"
+"status"
+"Statement executed successfully."
+002003 (02000): SQL compilation error:
+Data exchange listing 'NA_DEMO_LISTING' does not exist or not authorized.
+002003 (02000): SQL compilation error:
+Application package 'NA_DEMO_APP_PKG' does not exist or not authorized.
+002003 (02000): SQL compilation error:
+Database 'NATIVE_APP_DEMO_DB' does not exist or not authorized.
+002003 (02000): SQL compilation error:
+Database 'NATIVE_APP_DEMO_DB' does not exist or not authorized.
+"status"
+"Application Package 'NA_DEMO_APP_PKG' created successfully."
+002003 (02000): SQL compilation error:
+Database 'NATIVE_APP_DB' does not exist or not authorized.
+093031 (P0002): Version 'NA_DEMO_APP_V01' of application package 'NA_DEMO_APP_PKG' does not exist.
+"status"
+"Listing 'NA_DEMO_LISTING' is successfully created."
+"status"
+"Statement executed successfully."
+090720 (0A000): No default release directive is found for application package 'NA_DEMO_APP_PKG' when setting up a listing with the application package.
+"status"
+"Statement executed successfully."
+"global_name","name","type","state","metadata","profile_name","customized_contact_info","fulfillment_type","attached_share","draft_state","draft_metadata","draft_profile_name","rejected_reason","created_on","updated_on","regions","comment","first_published_on","last_published_on","last_submitted_on","last_approved_on","autofulfillment","unpublished_by_admin_reason","private","target_accounts","publish_on_approval","replication_schedule","share_type","additional_regions","flags","application_package_name","evaluation_plan","draft_evaluation_plan","rejected_on","detailed_target_accounts"
+"GZTYZOLQ4DM","NA_DEMO_LISTING","STANDARD","PUBLISHED","{""title"" : ""Snowflake simple demo native app"",""providerInfo"" : {""name"":""snowflake sandbox rpegu_cas2""}}","","","PROVIDERS","","UNSENT","{""title"" : ""Snowflake simple demo native app"",""providerInfo"" : {""name"":""snowflake sandbox rpegu_cas2""}}","","","2024-03-29 04:21:29.900 -0700","2024-03-29 04:21:30.519 -0700","ALL","","2024-03-29 04:21:30.519 -0700","2024-03-29 04:21:30.519 -0700","","","false","","true","SFPSCOGS.AWS_CAS2","false","","","","","","","","","[{""account_identifier"":""SFPSCOGS.AWS_CAS2"",""company_name"":""""}]"
+"status"
+"Statement executed successfully."
+"status"
+"Role APP_CREATOR successfully created."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Database NATIVE_APP_DEMO_DB successfully created."
+"status"
+"Schema SRC successfully created."
+"status"
+"Stage area APP_CODE_STAGE successfully created."
+"global_name","name","type","state","metadata","profile_name","customized_contact_info","fulfillment_type","attached_share","draft_state","draft_metadata","draft_profile_name","rejected_reason","created_on","updated_on","regions","comment","first_published_on","last_published_on","last_submitted_on","last_approved_on","autofulfillment","unpublished_by_admin_reason","private","target_accounts","publish_on_approval","replication_schedule","share_type","additional_regions","flags","application_package_name","evaluation_plan","draft_evaluation_plan","rejected_on","detailed_target_accounts"
+"status"
+"Statement executed successfully."
+002003 (02000): SQL compilation error:
+Data exchange listing 'NA_DEMO_LISTING' does not exist or not authorized.
+002003 (02000): SQL compilation error:
+Application package 'NA_DEMO_APP_PKG' does not exist or not authorized.
+"source","target","source_size","target_size","source_compression","target_compression","status","message"
+"manifest.yml","manifest.yml","67","80","NONE","NONE","UPLOADED",""
+"source","target","source_size","target_size","source_compression","target_compression","status","message"
+"setup.sql","setup.sql","404","416","NONE","NONE","UPLOADED",""
+003041 (42710): SQL compilation error:
+Application_package 'NA_DEMO_APP_PKG' already exists, but current role has no privileges on it. If this is unexpected and you cannot resolve this problem, contact your system administrator. ACCOUNTADMIN role may be required to manage the privileges on the object.
+002003 (02000): SQL compilation error:
+Application package 'NA_DEMO_APP_PKG' does not exist or not authorized.
+002003 (02000): SQL compilation error:
+Application package 'NA_DEMO_APP_PKG' does not exist or not authorized.
+003041 (42710): SQL compilation error:
+Data_exchange_listing 'NA_DEMO_LISTING' already exists, but current role has no privileges on it. If this is unexpected and you cannot resolve this problem, contact your system administrator. ACCOUNTADMIN role may be required to manage the privileges on the object.
+002003 (02000): SQL compilation error:
+Data exchange listing 'NA_DEMO_LISTING' does not exist or not authorized.
+002003 (02000): SQL compilation error:
+Application package 'NA_DEMO_APP_PKG' does not exist or not authorized.
+002003 (02000): SQL compilation error:
+Data exchange listing 'NA_DEMO_LISTING' does not exist or not authorized.
+"global_name","name","type","state","metadata","profile_name","customized_contact_info","fulfillment_type","attached_share","draft_state","draft_metadata","draft_profile_name","rejected_reason","created_on","updated_on","regions","comment","first_published_on","last_published_on","last_submitted_on","last_approved_on","autofulfillment","unpublished_by_admin_reason","private","target_accounts","publish_on_approval","replication_schedule","share_type","additional_regions","flags","application_package_name","evaluation_plan","draft_evaluation_plan","rejected_on","detailed_target_accounts"
+"status"
+"Statement executed successfully."
+"status"
+"Role APP_CREATOR successfully created."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Database NATIVE_APP_DEMO_DB successfully created."
+"status"
+"Schema SRC successfully created."
+"status"
+"Stage area APP_CODE_STAGE successfully created."
+"global_name","name","type","state","metadata","profile_name","customized_contact_info","fulfillment_type","attached_share","draft_state","draft_metadata","draft_profile_name","rejected_reason","created_on","updated_on","regions","comment","first_published_on","last_published_on","last_submitted_on","last_approved_on","autofulfillment","unpublished_by_admin_reason","private","target_accounts","publish_on_approval","replication_schedule","share_type","additional_regions","flags","application_package_name","evaluation_plan","draft_evaluation_plan","rejected_on","detailed_target_accounts"
+"status"
+"Statement executed successfully."
+002003 (02000): SQL compilation error:
+Data exchange listing 'NA_DEMO_LISTING' does not exist or not authorized.
+002003 (02000): SQL compilation error:
+Application package 'NA_DEMO_APP_PKG' does not exist or not authorized.
+"source","target","source_size","target_size","source_compression","target_compression","status","message"
+"manifest.yml","manifest.yml","67","80","NONE","NONE","UPLOADED",""
+"source","target","source_size","target_size","source_compression","target_compression","status","message"
+"setup.sql","setup.sql","404","416","NONE","NONE","UPLOADED",""
+"status"
+"Application Package 'NA_DEMO_APP_PKG' created successfully."
+002003 (02000): SQL compilation error:
+Database 'NATIVE_APP_DB' does not exist or not authorized.
+093031 (P0002): Version 'NA_DEMO_APP_V01' of application package 'NA_DEMO_APP_PKG' does not exist.
+"status"
+"Listing 'NA_DEMO_LISTING' is successfully created."
+"status"
+"Statement executed successfully."
+090720 (0A000): No default release directive is found for application package 'NA_DEMO_APP_PKG' when setting up a listing with the application package.
+"status"
+"Statement executed successfully."
+"global_name","name","type","state","metadata","profile_name","customized_contact_info","fulfillment_type","attached_share","draft_state","draft_metadata","draft_profile_name","rejected_reason","created_on","updated_on","regions","comment","first_published_on","last_published_on","last_submitted_on","last_approved_on","autofulfillment","unpublished_by_admin_reason","private","target_accounts","publish_on_approval","replication_schedule","share_type","additional_regions","flags","application_package_name","evaluation_plan","draft_evaluation_plan","rejected_on","detailed_target_accounts"
+"GZTYZOLQ4DU","NA_DEMO_LISTING","STANDARD","PUBLISHED","{""title"" : ""Snowflake simple demo native app"",""providerInfo"" : {""name"":""snowflake sandbox rpegu_cas2""}}","","","PROVIDERS","","UNSENT","{""title"" : ""Snowflake simple demo native app"",""providerInfo"" : {""name"":""snowflake sandbox rpegu_cas2""}}","","","2024-03-29 04:30:34.985 -0700","2024-03-29 04:30:35.634 -0700","ALL","","2024-03-29 04:30:35.634 -0700","2024-03-29 04:30:35.634 -0700","","","false","","true","SFPSCOGS.AWS_CAS2","false","","","","","","","","","[{""account_identifier"":""SFPSCOGS.AWS_CAS2"",""company_name"":""""}]"

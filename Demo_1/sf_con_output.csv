@@ -1,0 +1,26 @@
+"status"
+"Statement executed successfully."
+002002 (42710): SQL compilation error:
+Object 'APP_CONSUMER_ADMIN' already exists.
+"status"
+"Statement executed successfully."
+"status"
+"Warehouse RPEGU_WH successfully created."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Statement executed successfully."
+"status"
+"Drop statement executed successfully (NA_DEMO_APPL already dropped)."
+"SYSTEM$ACCEPT_LEGAL_TERMS"
+"Terms for DATA_EXCHANGE_LISTING GZTYZOLQ4DU successfully accepted."
+003005 (42000): SQL compilation error:
+Data exchange listing 'GZTYZOLQ4DU' does not exist or operation not authorized.
+002141 (42601): SQL compilation error:
+Unknown user-defined function NA_DEMO_APP.SRC.HELLO
