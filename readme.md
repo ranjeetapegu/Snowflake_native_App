@@ -10,7 +10,7 @@ You need to execute a consumer side script (consumer.sql).
 The consumer.sql will have this items 
 
 How to execute the code in SNOWSQL 
-// **In the provider account ***//
+// **In the provider account**//
 snowsql -c rpegucas2 -f provider.sql -o output_file=sf_output.csv -o output_format=csv -o quiet=true
 
 //command running in the consumer account //
