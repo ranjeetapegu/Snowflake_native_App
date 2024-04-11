@@ -15,5 +15,5 @@ How to execute the code in SNOWSQL
 
 snowsql -c rpegucas2 -f provider.sql -o output_file=sf_output.csv -o output_format=csv -o quiet=true
 
-//command running in the consumer account // 
+**In the consumer account**
 snowsql -c  cas2 -f consumer.sql -o output_file=sf_con_output.csv -o output_format=csv -o quiet=true
