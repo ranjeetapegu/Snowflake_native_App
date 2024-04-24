@@ -12,7 +12,7 @@ LANGUAGE SQL
 AS
 $$
 BEGIN
-  RETURN 'HELLO WORLD!!!' ;
+  RETURN 'HELLO Snowflaker!!!' ;
 END;
 $$
 ;
